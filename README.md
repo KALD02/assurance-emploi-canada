@@ -29,7 +29,9 @@ assurance-emploi-canada/
     └── Évolution du nombre de beneficiaires de l'assurance-emploi au Canada en fonction des groupes dage
 
 -> [Évolution du nombre de beneficiaires de l'assurance emploi au canada](images/Evolution_du_nombre_de_beneficiaires_de_lassurance_emploi_au_canada.png)
+
 -> [Évolution du nombre beneficiaires au Canada par province](Evolution_du_nbre_benef_au_canada_par_province.png)
+
 -> [Évolution du nombre de beneficiaires de l'assurance-emploi au Canada en fonction des groupes dage](Evolution_du_nombre_de_beneficiaires_de_lassurance_emploi_au_Canada_en_fonction_des_groupes_dage.png) 
 
 ## Résultats clés
