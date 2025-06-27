@@ -3,10 +3,10 @@
 Ce projet vise à analyser les tendances des bénéficiaires de l’assurance-emploi au Canada en utilisant des données publiques de Statistique Canada.
 
 ## Objectifs
-Comprendre l’évolution du nombre de bénéficiaires de l’assurance-emploi
-Identifier les impacts de la crise post-COVID
-Segmenter l’analyse par province, groupe d’âge et sexe
-Visualiser les données de manière claire et interactive
+Comprendre l’évolution du nombre de bénéficiaires de l’assurance-emploi.
+Identifier les impacts de la crise post-COVID.
+Segmenter l’analyse par province, groupe d’âge et sexe.
+Visualiser les données de manière claire et interactive.
 
 ## Technologies utilisées
 
