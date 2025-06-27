@@ -24,15 +24,9 @@ assurance-emploi-canada/
 ├── assurance_emploi_analysis.ipynb  
 └── README.md
 └── images/
-    ├── Evolution_du_nombre_de_beneficiaires_de_l_assurance_emploi
-    ├── Evolution_du_nombre_beneficiaires_par_province
-    └── Evolution_du_nombre_de_beneficiaires_en_fonction_des_groupes_dage
-    
--> [Évolution du nombre de beneficiaires de l'assurance emploi au canada](images/Evolution_du_nombre_de_beneficiaires_de_lassurance_emploi_au_canada.png)
-
--> [Évolution du nombre beneficiaires au Canada par province](Evolution_du_nbre_benef_au_canada_par_province.png)
-
--> [Évolution du nombre de beneficiaires de l'assurance-emploi au Canada en fonction des groupes dage](Evolution_du_nombre_de_beneficiaires_de_lassurance_emploi_au_Canada_en_fonction_des_groupes_dage.png) 
+    ├── ![Évolution nationale](images/evolution_beneficiaires_canada.png)
+    ├── ![Par province](images/evolution_beneficiaires_par_province.png)
+    └── ![Par groupe d'âge](images/evolution_beneficiaires_par_groupe_age.png)
 
 ## Résultats clés
 Plus de 1,5 million de lignes analysées
