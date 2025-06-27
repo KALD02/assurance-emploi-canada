@@ -24,7 +24,7 @@ assurance-emploi-canada/
 ├── assurance_emploi_analysis.ipynb  
 └── README.md
 └── images/
-    ├── ![Évolution nationale](images/evolution_beneficiaires_canada.png)
+    ├── ![evolution nationale](images/evolution_beneficiaires_canada.png)
     ├── ![Par province](images/evolution_beneficiaires_par_province.png)
     └── ![Par groupe d'âge](images/evolution_beneficiaires_par_groupe_age.png)
 
